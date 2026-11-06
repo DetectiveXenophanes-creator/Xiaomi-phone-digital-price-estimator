@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.pricepulse.app",
+    "sha256_cert_fingerprints": [
+      "DC:6C:95:8D:AA:DE:8F:29:C1:18:96:55:06:BE:CB:F7:B7:8A:93:6B:EC:14:F5:0E:8E:35:5E:30"
+    ]
+  }
+}]
