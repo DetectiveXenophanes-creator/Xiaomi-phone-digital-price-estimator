@@ -1,1 +1,4 @@
 Hello there, this is my new app called PricePulse, it’s a xiaomi phone price estimator app where you can choose up to 55 phone models currently(more models will come in the future). To clarify and make this clear I vibe coded this app using claude sonnet 5.5, reason why I used AI is because I don’t have any experience making an application so this is my only reason why I’m using AI
+
+Here is the downloads page link 👇
+Link: https://detectivexenophanes-creator.github.io/Xiaomi-phone-digital-price-estimator/download/download.html
